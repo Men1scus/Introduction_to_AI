@@ -1,0 +1,1 @@
+The trained model should be placed in this folder.
